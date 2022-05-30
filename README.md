@@ -3,5 +3,4 @@
  Team of two, with "Enjaku".
 
  Move with ASWD and pick up items to make s'mores (chocolate, graham crackers, marshmallows, stick).
-
- Initial test build is playable, but lacks animations and sound; and the counters aren't visible.
+ https://rainsong.itch.io/smore-heavenly-than-expected
